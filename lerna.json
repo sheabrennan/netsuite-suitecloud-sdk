@@ -4,7 +4,7 @@
   "command": {
     "publish": {
       "ignoreChanges": ["*.md"],
-      "registry": "https://repository.eng.netsuite.com/content/repositories/releases-pdp-npm/"
+      "registry": "https://repository-master.eng.netsuite.com/content/repositories/releases-pdp-npm/"
     },
     "bootstrap": {
       "npmClientArgs": ["--no-package-lock"]
