@@ -16,5 +16,5 @@ packages/node-cli/src/core/sdksetup/config.json
 .idea/*
 
 #package-lock of packages doesn't make sense with Lerna
-/packages/*/package-lock.json
-/extensions/*/package-lock.json
+#/packages/*/package-lock.json
+#/extensions/*/package-lock.json
