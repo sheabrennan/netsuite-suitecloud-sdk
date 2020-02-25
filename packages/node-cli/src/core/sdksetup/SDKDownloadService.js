@@ -11,6 +11,7 @@ const SDKProperties = require('./SDKProperties');
 
 const HOME_PATH = require('os').homedir();
 
+
 const { FOLDER_NAMES } = require('../../ApplicationConstants');
 
 const NodeUtils = require('../../utils/NodeUtils');
